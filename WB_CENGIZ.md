@@ -36,3 +36,23 @@ Dabei habe ich folgende Punkte ausgearbeitet bzw. eingetragen:
 6. **Meilensteine**
 
    * Festlegung von insgesamt **fünf Meilensteinen** für die Planung und Umsetzung der Diplomarbeit.
+  
+# Wochenbericht - 24.09.2026
+
+## Tätigkeiten
+
+1. Ich habe nach einem geeigneten Rechner gesucht, der als Linux-Server für unsere Diplomarbeit verwendet werden kann.
+2. Anschließend habe ich den Rechner mit Strom versorgt und an einen alten Monitor angeschlossen.
+3. Danach habe ich die Ubuntu-ISO-Datei heruntergeladen und auf einen USB-Stick geflasht, um ein bootfähiges Installationsmedium zu erstellen.
+4. Abschließend habe ich den vorbereiteten USB-Stick in den Rechner gesteckt, um die Installation von Ubuntu vorzubereiten.
+
+## Ergebnis
+
+Der Rechner wurde angeschlossen und der bootfähige USB-Stick erfolgreich vorbereitet. Damit sind die Voraussetzungen für die Installation von Ubuntu geschaffen.
+
+## Nächste Schritte
+
+- Ubuntu auf dem Rechner installieren.
+- Die grundlegende Konfiguration des Linux-Servers durchführen.
+- Die Netzwerkverbindung einrichten.
+
