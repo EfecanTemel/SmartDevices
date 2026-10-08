@@ -1,4 +1,4 @@
-## Einkaufsliste – SmartDevice Diplomarbeit
+## Einkaufsliste reichelt – SmartDevice Diplomarbeit
 
 | Nr. | Artikel | Artikelnummer | Menge |
 |---|---|---|---|
