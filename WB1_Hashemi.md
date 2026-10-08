@@ -65,7 +65,7 @@ Bei der Planung stellte sich heraus, dass die Gehäuse so einfach und praktisch 
 - stabile Befestigung des ESP32-C6
 - einfache Montage durch Deckel und Schrauben
 
-# Weekly Report – 3D-Modellierung und Softwareauswahl 27.09.26
+# Weekly Report – 3D-Modellierung und Softwareauswahl 24.09.26
 Woche: letzte Woche
 Projekt: SmartDevice Diplomarbeit
 Durchgeführte Arbeiten
