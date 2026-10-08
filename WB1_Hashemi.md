@@ -5,10 +5,10 @@ Unten habe ich dazu eine kurz Zusammenfassung geschrieben mit meinen Notizen
 
 1. Was ist Matter?
 
-        Matter ist ein herstellerübergreifender Kommunikationsstandard für Smart-Home-Geräte. Er fungiert wie ein Übersetzer, 
-        damit Geräte verschiedener Marken problemlos miteinander funktionieren und über eine gemeinsame App oder Sprachassistenten gesteuert werden können.
-        Entwickelt wurde der Standard von Branchenriesen wie Apple, Google, Amazon und Samsung, um die Zukunftssicherheit und
-        Kompatibilität im Smart Home zu gewährleisten.
+   > Matter ist ein herstellerübergreifender Kommunikationsstandard für Smart-Home-Geräte. Er fungiert wie ein Übersetzer, 
+   > damit Geräte verschiedener Marken problemlos miteinander funktionieren und über eine gemeinsame App oder Sprachassistenten gesteuert werden können.
+   > Entwickelt wurde der Standard von Branchenriesen wie Apple, Google, Amazon und Samsung, um die Zukunftssicherheit und
+   > Kompatibilität im Smart Home zu gewährleisten.
 
 2. Was ist Matter nicht?
    
