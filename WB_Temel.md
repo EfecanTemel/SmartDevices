@@ -30,6 +30,6 @@
 - Online-Simulator Wokwi ausprobiert
 - Programmierexperimente mit einem ESP32 in Wokwi durchgeführt
 
-## Weekly Report – 24.09.2026
+## Weekly Report – 1.10.2026
 - weiter mit Esp32 auf Wokwi herumprobiert
 - Ubuntu installierung geholfen
