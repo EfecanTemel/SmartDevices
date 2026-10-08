@@ -65,4 +65,21 @@ Bei der Planung stellte sich heraus, dass die Gehäuse so einfach und praktisch 
 - stabile Befestigung des ESP32-C6
 - einfache Montage durch Deckel und Schrauben
 
+# Weekly Report – 3D-Modellierung und Softwareauswahl 27.09.26
+Woche: letzte Woche
+Projekt: SmartDevice Diplomarbeit
+Durchgeführte Arbeiten
+In der letzten Woche habe ich mich hauptsächlich mit der 3D-Modellierung und der Vorbereitung der Gehäuse für den 3D-Druck beschäftigt.
+Zuerst habe ich verschiedene Programme und Webseiten verglichen, mit denen sich die Gehäuse für die einzelnen SmartDevice-Komponenten erstellen lassen. Dabei habe ich besonders darauf geachtet, welche Programme einfach zu bedienen, kostenlos oder günstig und für technische 3D-Modelle geeignet sind.
+Ich habe mich unter anderem mit folgenden Programmen beschäftigt:
+- Onshape
+- FreeCAD
+- Fusion 360
+- Tinkercad
+- SelfCAD
+Dabei habe ich die verschiedenen Vor- und Nachteile verglichen. Wichtig war für mich vor allem, dass die Software leicht verständlich ist und Dateien wie STL oder STEP unterstützt, damit die Modelle später für den 3D-Druck verwendet werden können.
+Anschließend habe ich mich mit SelfCAD näher beschäftigt, da es direkt im Browser verwendet werden kann und eine übersichtliche Benutzeroberfläche bietet. Dort habe ich begonnen, ein neues Projekt für die Fernbedienung mit dem XIAO ESP32-C6 anzulegen und die ersten 3D-Dateien vorzubereiten beziehungsweise zu importieren.
+Erkenntnisse
+Ich habe gelernt, dass für technische Gehäuse eine CAD-Software notwendig ist, mit der genaue Maße, Aussparungen und Befestigungen erstellt werden können. Außerdem habe ich mich mit den Dateiformaten STL und STEP beschäftigt und verstanden, dass STEP besser für die Bearbeitung geeignet ist, während STL häufig direkt für den 3D-Druck verwendet wird.
+
   
