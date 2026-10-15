@@ -56,3 +56,28 @@ Der Rechner wurde angeschlossen und der bootfähige USB-Stick erfolgreich vorber
 - Die grundlegende Konfiguration des Linux-Servers durchführen.
 - Die Netzwerkverbindung einrichten.
 
+# Wochenbericht – 15.10.2026
+
+## Ubuntu Server einrichten und Home Assistant vorbereiten
+
+Heute habe ich mich mit der Installation und Konfiguration vom Ubuntu Server (headless) beschäftigt.
+
+Zuerst habe ich den Rechner über den geflashten USB-Stick gestartet und die Installation von Ubuntu Server ohne grafische Benutzeroberfläche (Headless) begonnen. Dabei habe ich die notwenidgen Einstellungen vorgenommen.
+
+- Deutsche Sprache und Tastaturbelegung ausgewählt.
+- Die normale Ubuntu-Server-Installation ausgewählt.
+- Die LAN-Netzwerkverbindung überprüft und eine IP-Adresse über DHCP erhalten.
+- Die Proxy-Einstellungen und Ubuntu-Paketquellen überprüft.
+- Die interne BIWIN SSD mit ungefähr 15 GB als Installationslaufwerk ausgewählt und die Partitionierung konfiguriert.
+- Ein Benutzerkonto für die spätere Anmeldung eingerichtet.
+- Installation des OpenSSH-Servers ausgewählt, damit der Rechner später über das Netzwerk verwaltet werden kann.
+- Auf zusätzliche Softwarepakete verzichtet, um Speicherplatz zu sparen.
+
+Während der Installation trat ein Fehler auf, nach Nachfrage hat mich der Professor Wörndl unterstützt und wir  haben den Fehler beseitigt und somit den Server fertiggestellt.
+Danach habe ich den Professor Zatl danach gefragt, die DHCP Adresse zu fixieren, was auch geklappt hat.
+
+Anschließend habe ich mich über die Installation von **Home Assistant auf Ubuntu Server** informiert. Dabei habe ich die verschiedenen Installationsmethoden untersucht und erfahren, dass Home Assistant als Docker-Container betrieben werden kann, ohne ein eigenes Betriebssystem oder eine virtuelle Maschine installieren zu müssen.
+
+## Ergebnis und nächste Schritte
+
+Ich möchte Home Assistant auf Ubuntu Server installieren und über die Weboberfläche aufrufen. Langfristig soll der Server für die Kommunikation mit dem ESP32-C6 über Thread verwendet werden.
