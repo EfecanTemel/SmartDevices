@@ -82,4 +82,17 @@ Anschließend habe ich mich mit SelfCAD näher beschäftigt, da es direkt im Bro
 Erkenntnisse
 Ich habe gelernt, dass für technische Gehäuse eine CAD-Software notwendig ist, mit der genaue Maße, Aussparungen und Befestigungen erstellt werden können. Außerdem habe ich mich mit den Dateiformaten STL und STEP beschäftigt und verstanden, dass STEP besser für die Bearbeitung geeignet ist, während STL häufig direkt für den 3D-Druck verwendet wird.
 
-  
+## Weekly Report – 08.10.2026
+
+- Online nach fertigen 3D-Modellen und Gehäusen für den XIAO ESP32-C6 recherchiert
+- Verschiedene 3D-Modelle verglichen und als Vorlage verwendet
+- Vorhandene 3D-Modelle heruntergeladen
+- Ausgewählte Modelle selbst bearbeitet und an die eigenen Anforderungen angepasst
+
+## Weekly Report – 15.10.2026
+
+- Online nach vorhandenen 3D-Modellen und Gehäusen für den XIAO ESP32-C6 recherchiert
+- Verschiedene 3D-Designs als Referenz verwendet
+- Abmessungen des ESP32-C6 ermittelt und für die Gehäuseplanung berücksichtigt
+- Mit dem webbasierten 3D-Modellierungsprogramm **SelfCAD** gearbeitet
+- Eigenes Gehäuse für den XIAO ESP32-C6 in SelfCAD konstruiert
