@@ -55,6 +55,18 @@ Der Rechner wurde angeschlossen und der bootfähige USB-Stick erfolgreich vorber
 - Ubuntu auf dem Rechner installieren.
 - Die grundlegende Konfiguration des Linux-Servers durchführen.
 - Die Netzwerkverbindung einrichten.
+  
+# Wochenbericht – 08.10.2026
+
+## Ubuntu Desktop und Ubuntu Server
+
+Heute habe ich Ubuntu Desktop erfolgreich auf dem Linux-Rechner installiert und die Internetverbindung über Firefox getestet.
+
+Anschließend habe ich festgestellt, dass Ubuntu Server ohne grafische Oberfläche (Headless) für unsere Diplomarbeit besser geeignet ist.
+
+Deshalb habe ich die Ubuntu-Server-ISO heruntergeladen und mit **Rufus** erneut auf den USB-Stick geflasht. Dafür habe ich in Rufus den USB-Stick und die ISO-Datei ausgewählt und den Flash-Vorgang gestartet.
+
+Danach habe ich den Linux-Rechner erneut vom USB-Stick gebootet, die notwendigen Einstellungen wie Sprache, Tastatur, Netzwerk und Installationsart vorgenommen und mit der **Installation von Ubuntu Server** begonnen.
 
 # Wochenbericht – 15.10.2026
 
