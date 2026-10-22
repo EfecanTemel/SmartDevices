@@ -93,3 +93,42 @@ Anschließend habe ich mich über die Installation von **Home Assistant auf Ubun
 ## Ergebnis und nächste Schritte
 
 Ich möchte Home Assistant auf Ubuntu Server installieren und über die Weboberfläche aufrufen. Langfristig soll der Server für die Kommunikation mit dem ESP32-C6 über Thread verwendet werden.
+
+# Wochenbericht – 22.10.2026
+
+## 1. Docker-Installation und Einrichtung
+- Die offizielle **Docker-Paketquelle** erfolgreich auf dem Ubuntu Server eingerichtet.
+- **Docker Engine** und **Docker Compose** installiert.
+- Mit `sudo apt update` die Paketlisten aktualisiert.
+- Die Funktionalität von Docker überprüft.
+
+## 2. SSH-Verbindung und Linux-Grundlagen
+- Über **Secure Shell (SSH)** von einem Windows-PC auf den Ubuntu Server zugegriffen.
+- Verbindung mit folgendem Befehl hergestellt:
+  ```bash
+  ssh smart@172.24.2.126
+  ```
+- Meine Kenntnisse über **Linux-Terminalbefehle** durch praktische Aufgaben vertieft.
+
+## 3. Git und GitHub-Repository
+- Die Software **Git** installiert.
+- Das offizielle **Home-Assistant-Repository** von GitHub auf den Ubuntu Server geklont:
+  ```bash
+  git clone --depth 1 https://github.com/home-assistant/core.git
+  ```
+- Dabei einen *Shallow Clone* verwendet, um nur den aktuellen Stand des Repositories herunterzuladen und Speicherplatz zu sparen.
+
+## 4. Home-Assistant-Installation und Konfiguration
+- Die Verzeichnisse `homeassistant` und `homeassistant/config` erstellt, um die Konfigurationsdateien von Home Assistant zu speichern.
+- Die Datei `compose.yaml` angelegt und darin den **Home-Assistant-Docker-Container** konfiguriert.
+
+## 5. Zugriff auf die Home-Assistant-Weboberfläche
+- Den Aufruf der Home-Assistant-Weboberfläche über folgende Adresse vorbereitet und getestet:
+  ```text
+  http://172.24.2.126:8123
+  ```
+- **172.24.2.126:** IP-Adresse des Ubuntu Servers im lokalen Netzwerk.
+- **8123:** Standardmäßiger TCP-Port, über den die Home-Assistant-Weboberfläche erreichbar ist.
+
+## Ergebnis
+Die Docker-Umgebung wurde eingerichtet, das offizielle Home-Assistant-Repository erfolgreich geklont und die Konfiguration des Home-Assistant-Containers vorbereitet. Die erfolgreiche Erreichbarkeit der Weboberfläche muss noch abschließend überprüft werden.
