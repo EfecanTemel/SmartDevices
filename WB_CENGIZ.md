@@ -132,3 +132,28 @@ Ich möchte Home Assistant auf Ubuntu Server installieren und über die Weboberf
 
 ## Ergebnis
 Die Docker-Umgebung wurde eingerichtet, das offizielle Home-Assistant-Repository erfolgreich geklont und die Konfiguration des Home-Assistant-Containers vorbereitet. Die erfolgreiche Erreichbarkeit der Weboberfläche muss noch abschließend überprüft werden.
+
+# Wochenbericht – 05.11.2026
+
+- Mit der **Home-Assistant-Umgebung** beschäftigt (Entities, Events, Integrationen usw.)
+- XIAO ESP32-C6 mit der **ZBOSS-Coordinator-Firmware** geflasht
+- ESP32-C6 als Zigbee-USB-Stick mit dem Headless-Ubuntu-Server verbunden
+- **Docker-Container** für Mosquitto und Zigbee2MQTT erstellt und gestartet
+- **Mosquitto MQTT-Broker** installiert und konfiguriert
+- **Zigbee2MQTT** eingerichtet und mit dem ESP32-C6 verbunden
+- MQTT-Verbindung zwischen Zigbee2MQTT und Mosquitto konfiguriert und getestet
+- Fehler bei der MQTT-Authentifizierung untersucht
+- Integration von Zigbee2MQTT in Home Assistant vorbereitet
+
+
+# Wochenbericht – 12.11.2026
+
+- **Mosquitto:** Probleme mit lokalem Zugriff und Portbelegung analysiert und Konfiguration angepasst.
+- **Docker:** Container versehentlich gestoppt und anschließend neu gestartet.
+- **Zigbee2MQTT:** Probleme bei der Container-Erstellung und Namenskonflikte behoben.
+- **Fehlersuche:** USB-Geräte überprüft und Docker-Logs zur Fehleranalyse verwendet.
+
+
+
+
+
