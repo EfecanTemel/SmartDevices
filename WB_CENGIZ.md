@@ -136,7 +136,6 @@ Die Docker-Umgebung wurde eingerichtet, das offizielle Home-Assistant-Repository
 # Wochenbericht – 05.11.2026
 
 - Mit der **Home-Assistant-Umgebung** beschäftigt (Entities, Events, Integrationen usw.)
-- XIAO ESP32-C6 mit der **ZBOSS-Coordinator-Firmware** geflasht
 - ESP32-C6 als Zigbee-USB-Stick mit dem Headless-Ubuntu-Server verbunden
 - **Docker-Container** für Mosquitto und Zigbee2MQTT erstellt und gestartet
 - **Mosquitto MQTT-Broker** installiert und konfiguriert
